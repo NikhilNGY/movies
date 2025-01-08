@@ -4,8 +4,7 @@ tgcrypto
 pymongo==4.8.0 
 motor==3.5.1 
 marshmallow==3.18.0 
-umongo==3.1.0 
-git+https://github.com/Joelkb/cinemagoer 
+umongo==3.1.0  
 Heroku3 
 search_engine_parser 
 wget 
@@ -30,6 +29,7 @@ werkzeug==2.0.2
 Flask 
 itsdangerous==2.0.1 
 python-Levenshtein 
+git+https://github.com/Joelkb/cinemagoer
  
  
 #jisshu 
