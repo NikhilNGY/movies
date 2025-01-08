@@ -44,14 +44,14 @@ SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/KR_Picture') #Support g
 #---------------------------------------------------------------
 IS_VERIFY = is_enabled('IS_VERIFY', True)
 #---------------------------------------------------------------
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/")
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/how_to_open_linkszz/6")
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
-SHORTENER_API = environ.get("SHORTENER_API", "3097623f852197a9ce40d1212aaa8bbf2803e799")
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'omegalinks.in')
-SHORTENER_API2 = environ.get("SHORTENER_API2", "3097623f852197a9ce40d1212aaa8bbf2803e799")
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'omegalinks.in')
-SHORTENER_API3 = environ.get("SHORTENER_API3", "3097623f852197a9ce40d1212aaa8bbf2803e799")
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'omegalinks.in')
+SHORTENER_API = environ.get("SHORTENER_API", "04bb681cb4264fc7f12c3221e8f151473d055b92")
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'Modijiurl.com')
+SHORTENER_API2 = environ.get("SHORTENER_API2", "04bb681cb4264fc7f12c3221e8f151473d055b92")
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'Modijiurl.com')
+SHORTENER_API3 = environ.get("SHORTENER_API3", "04bb681cb4264fc7f12c3221e8f151473d055b92")
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'Modijiurl.com')
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "14400"))
 THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "14400"))
 #---------------------------------------------------------------
@@ -68,10 +68,10 @@ REQUEST_CHANNEL = int(request_channel) if request_channel and id_pattern.search(
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-START_IMG = (environ.get('START_IMG', 'https://i.ibb.co/qpxpGmC/image.jpg https://i.ibb.co/DQ35zLZ/image.jpg')).split()
+START_IMG = (environ.get('START_IMG', 'https://telegra.ph/file/94fbe6965e59b7e2ad77e.jpg https://telegra.ph/file/3cbae8caf6966e39076a0.jpg https://telegra.ph/file/89fdead576fef71e749d9.jpg https://telegra.ph/file/84e99f37a84ea85be1bd5.jpg https://telegra.ph/file/fb51a5eef3691025c4490.jpg https://telegra.ph/file/1096ec201df2d4bbe6809.jpg https://telegra.ph/file/5c86123dd20308611b508.jpg https://telegra.ph/file/d29042feb9ffc8bc5d746.jpg https://telegra.ph/file/622ca467be0ba2921b32c.jpg https://telegra.ph/file/8987915d0d75b4e102c0e.jpg https://telegra.ph/file/aa1e0826c89684c6a416f.jpg https://telegra.ph/file/ea10bde858558928aea10.jpg https://telegra.ph/file/13cc320175d6fc4ccbace.jpg https://telegra.ph/file/804a86bdc7d79601830d9.jpg https://telegra.ph/file/dbbee8e7199ad57b781b7.jpg https://telegra.ph/file/4466d37d43f5703516f74.jpg https://telegra.ph/file/9107275ff1d9b71db6bec.jpg')).split()
 FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://i.ibb.co/ZNC1Hnb/ad3f2c88a8f2.jpg')
 REFER_PICS = (environ.get("REFER_PICS", "https://envs.sh/PSI.jpg")).split() 
-PAYPICS = (environ.get('PAYPICS', 'https://envs.sh/_kA.jpg')).split()
+PAYPICS = (environ.get('PAYPICS', 'https://t.me/Nikhil5757h')).split()
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/9f3f47c690bbcc67633c2.jpg'))
 REACTIONS = ["👀", "😱", "🔥", "😍", "🎉", "🥰", "😇", "⚡"]
 #---------------------------------------------------------------
